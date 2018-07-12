@@ -32,8 +32,8 @@
 - (void)confiureFloatbot
 {
     [floatbotManager appLaunched];
-    [[floatbotManager sharedManager] setFLB_BOT_ID:@"5aa67cdd42d4e2023c65e8da"];
-    [[floatbotManager sharedManager] setFLB_KEY:@"5aa67cdd42d4e2023c65e8da"];
+    [[floatbotManager sharedManager] setFLB_BOT_ID:@"TEST_59fb044167015966527bdf11"];
+    [[floatbotManager sharedManager] setFLB_KEY:@"TEST_59fb044167015966527bdf11"];
     [[floatbotManager sharedManager] setBOT_NAME:@"David"];
     [[floatbotManager sharedManager] setShowSessionList:TRUE];
 }
